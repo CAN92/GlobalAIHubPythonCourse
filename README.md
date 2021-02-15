@@ -1,5 +1,5 @@
 # Mehmet Can ATASAYANLAR GAIH Repo1
-![](img/logo.png)
+![](Logo.png)
 
 **Course Date:** 15.02.2021  
 **Name:** Mehmet Can   
@@ -20,4 +20,4 @@ Some python libraries
 ---
 
 ### Certification
-![](img/certificate_ex.png)
+![](certificate_ex.png)
