@@ -1,4 +1,4 @@
-# Mehmet Can ATASAYANLAR GAIH Repo1
+# Mehmet Can ATASAYANLAR GAIH Repo
 ![](img/logo.png)
 
 **Course Date:** 15.02.2021  
