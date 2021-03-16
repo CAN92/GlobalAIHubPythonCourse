@@ -20,4 +20,4 @@ Some python libraries
 ---
 
 ### Certification
-![](img/Global AI Hub_Introduction_Python_Education.png)
+![](img/certificate_ex.png)
